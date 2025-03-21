@@ -1,0 +1,1 @@
+This is a simple color changer project that dynamically changes the background color with the click of a button. JavaScript, HTML, and CSS were used for the project. You can check out the finished project here https://colourchangerproject.netlify.app/
